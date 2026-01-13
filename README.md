@@ -1,5 +1,6 @@
 # 🧠🕹️ Brainfuck Ping‑Pong
-> beauttah 
+
+>Beauttah K.
 
 <div align="center">
 
